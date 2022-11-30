@@ -4,6 +4,7 @@ const userSchema = new Schema(
   {
     email: {
       type: String,
+      required: true,
       unique: true,
       lowercase: true,
       trim: true,
@@ -11,20 +12,9 @@ const userSchema = new Schema(
 
     password: {
       type: String,
+      required: true,
     },
 
-   
-
-   
-
-    // create CreatedFavList 
-
-    eventFavList: [
-      {
-        type: Schema.Types.ObjectId,
-        ref: "Event",
-      },
-    ],
 
   },
   {

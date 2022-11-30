@@ -1,0 +1,679 @@
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    "followers": {
+      "href": null,
+      "total": 23959617
+    },
+    "genres": [
+      "beatlesque",
+      "british invasion",
+      "classic rock",
+      "merseybeat",
+      "psychedelic rock",
+      "rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
+        "width": 160
+      }
+    ],
+    "name": "The Beatles",
+    "popularity": 82,
+    "type": "artist",
+    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4rH6ZqyKeYKNrPGWM9xK7e"
+    },
+    "followers": {
+      "href": null,
+      "total": 1746
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/4rH6ZqyKeYKNrPGWM9xK7e",
+    "id": "4rH6ZqyKeYKNrPGWM9xK7e",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273218e076d365a0772859659d5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02218e076d365a0772859659d5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851218e076d365a0772859659d5",
+        "width": 64
+      }
+    ],
+    "name": "Beatless",
+    "popularity": 7,
+    "type": "artist",
+    "uri": "spotify:artist:4rH6ZqyKeYKNrPGWM9xK7e"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5o723EMxNulM5ydXRh7Qkk"
+    },
+    "followers": {
+      "href": null,
+      "total": 1829
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/5o723EMxNulM5ydXRh7Qkk",
+    "id": "5o723EMxNulM5ydXRh7Qkk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd19de1859567e3305f238758",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174d19de1859567e3305f238758",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178d19de1859567e3305f238758",
+        "width": 160
+      }
+    ],
+    "name": "The Beatles Complete On Ukulele",
+    "popularity": 16,
+    "type": "artist",
+    "uri": "spotify:artist:5o723EMxNulM5ydXRh7Qkk"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+    },
+    "followers": {
+      "href": null,
+      "total": 5128095
+    },
+    "genres": [
+      "album rock",
+      "art rock",
+      "beatlesque",
+      "classic rock",
+      "mellow gold",
+      "rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
+    "id": "4x1nvY2FN8jxqAFA0DA02H",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb207c6849d1a1f4480e6aa222",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174207c6849d1a1f4480e6aa222",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178207c6849d1a1f4480e6aa222",
+        "width": 160
+      }
+    ],
+    "name": "John Lennon",
+    "popularity": 70,
+    "type": "artist",
+    "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3YojAkU7hiAalEunJy55JW"
+    },
+    "followers": {
+      "href": null,
+      "total": 3059
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/3YojAkU7hiAalEunJy55JW",
+    "id": "3YojAkU7hiAalEunJy55JW",
+    "images": [],
+    "name": "beatles",
+    "popularity": 10,
+    "type": "artist",
+    "uri": "spotify:artist:3YojAkU7hiAalEunJy55JW"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3muGwkg7cEbK52vzp76J38"
+    },
+    "followers": {
+      "href": null,
+      "total": 5251
+    },
+    "genres": ["british invasion"],
+    "href": "https://api.spotify.com/v1/artists/3muGwkg7cEbK52vzp76J38",
+    "id": "3muGwkg7cEbK52vzp76J38",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c8a2e6a6683c3e266184c6a7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c8a2e6a6683c3e266184c6a7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c8a2e6a6683c3e266184c6a7",
+        "width": 64
+      }
+    ],
+    "name": "Tony Sheridan",
+    "popularity": 23,
+    "type": "artist",
+    "uri": "spotify:artist:3muGwkg7cEbK52vzp76J38"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+    },
+    "followers": {
+      "href": null,
+      "total": 12327367
+    },
+    "genres": ["british invasion", "classic rock", "rock"],
+    "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+    "id": "22bE4uQ6baNwSHPVcDxLCe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd3cb15a8570cce5a63af63d8",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174d3cb15a8570cce5a63af63d8",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178d3cb15a8570cce5a63af63d8",
+        "width": 160
+      }
+    ],
+    "name": "The Rolling Stones",
+    "popularity": 77,
+    "type": "artist",
+    "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2FzAxY7Uqnr32pF7L0nK3c"
+    },
+    "followers": {
+      "href": null,
+      "total": 770
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/2FzAxY7Uqnr32pF7L0nK3c",
+    "id": "2FzAxY7Uqnr32pF7L0nK3c",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dc51c80e73910692dfbd1ac3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dc51c80e73910692dfbd1ac3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dc51c80e73910692dfbd1ac3",
+        "width": 64
+      }
+    ],
+    "name": "Beatless",
+    "popularity": 6,
+    "type": "artist",
+    "uri": "spotify:artist:2FzAxY7Uqnr32pF7L0nK3c"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3vuYd8ifdPWL3TgjPXgfgF"
+    },
+    "followers": {
+      "href": null,
+      "total": 250
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/3vuYd8ifdPWL3TgjPXgfgF",
+    "id": "3vuYd8ifdPWL3TgjPXgfgF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ba298d0366a41d713e9d847",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027ba298d0366a41d713e9d847",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517ba298d0366a41d713e9d847",
+        "width": 64
+      }
+    ],
+    "name": "The New Beatles",
+    "popularity": 17,
+    "type": "artist",
+    "uri": "spotify:artist:3vuYd8ifdPWL3TgjPXgfgF"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+    },
+    "followers": {
+      "href": null,
+      "total": 4184034
+    },
+    "genres": [
+      "album rock",
+      "art rock",
+      "beatlesque",
+      "classic rock",
+      "mellow gold",
+      "rock",
+      "soft rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+    "id": "4STHEaNw4mPZ2tzheohgXB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb03bf2fe26e397122faa3d323",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517403bf2fe26e397122faa3d323",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17803bf2fe26e397122faa3d323",
+        "width": 160
+      }
+    ],
+    "name": "Paul McCartney",
+    "popularity": 70,
+    "type": "artist",
+    "uri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/595sSXSxt1PkbmEGTJjOaZ"
+    },
+    "followers": {
+      "href": null,
+      "total": 939
+    },
+    "genres": ["lullaby"],
+    "href": "https://api.spotify.com/v1/artists/595sSXSxt1PkbmEGTJjOaZ",
+    "id": "595sSXSxt1PkbmEGTJjOaZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273582dc32b28ed797eba640140",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02582dc32b28ed797eba640140",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851582dc32b28ed797eba640140",
+        "width": 64
+      }
+    ],
+    "name": "Happy Baby Lullaby Band",
+    "popularity": 37,
+    "type": "artist",
+    "uri": "spotify:artist:595sSXSxt1PkbmEGTJjOaZ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3LomR1piS4aVys8KoC6W4r"
+    },
+    "followers": {
+      "href": null,
+      "total": 1122
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/3LomR1piS4aVys8KoC6W4r",
+    "id": "3LomR1piS4aVys8KoC6W4r",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273df2a4efe22f5f432ee100d70",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02df2a4efe22f5f432ee100d70",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851df2a4efe22f5f432ee100d70",
+        "width": 64
+      }
+    ],
+    "name": "Beatless",
+    "popularity": 2,
+    "type": "artist",
+    "uri": "spotify:artist:3LomR1piS4aVys8KoC6W4r"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+    },
+    "followers": {
+      "href": null,
+      "total": 2287661
+    },
+    "genres": [
+      "album rock",
+      "beatlesque",
+      "classic rock",
+      "folk rock",
+      "mellow gold",
+      "rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7FIoB5PHdrMZVC3q2HE5MS",
+    "id": "7FIoB5PHdrMZVC3q2HE5MS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb7fda8adcbe0cd99ec83a3bcf",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051747fda8adcbe0cd99ec83a3bcf",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1787fda8adcbe0cd99ec83a3bcf",
+        "width": 160
+      }
+    ],
+    "name": "George Harrison",
+    "popularity": 65,
+    "type": "artist",
+    "uri": "spotify:artist:7FIoB5PHdrMZVC3q2HE5MS"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+    },
+    "followers": {
+      "href": null,
+      "total": 821090
+    },
+    "genres": [
+      "album rock",
+      "beatlesque",
+      "blues rock",
+      "classic rock",
+      "country rock",
+      "folk rock",
+      "mellow gold",
+      "rock",
+      "rock drums",
+      "roots rock",
+      "singer-songwriter",
+      "soft rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6DbJi8AcN5ANdtvJcwBSw8",
+    "id": "6DbJi8AcN5ANdtvJcwBSw8",
+    "images": [
+      {
+        "height": 1000,
+        "url": "https://i.scdn.co/image/ab6772690000c46c0a18f8be6d36079f2b164c2d",
+        "width": 1000
+      },
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6772690000dd220a18f8be6d36079f2b164c2d",
+        "width": 640
+      },
+      {
+        "height": 200,
+        "url": "https://i.scdn.co/image/ab6772690000bac30a18f8be6d36079f2b164c2d",
+        "width": 200
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67726900008f740a18f8be6d36079f2b164c2d",
+        "width": 64
+      }
+    ],
+    "name": "Ringo Starr",
+    "popularity": 51,
+    "type": "artist",
+    "uri": "spotify:artist:6DbJi8AcN5ANdtvJcwBSw8"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5Pi3viYqawZx95Gan2dyC3"
+    },
+    "followers": {
+      "href": null,
+      "total": 1847
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/5Pi3viYqawZx95Gan2dyC3",
+    "id": "5Pi3viYqawZx95Gan2dyC3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb93f290ee7e61cff9b5dc0e49",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517493f290ee7e61cff9b5dc0e49",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17893f290ee7e61cff9b5dc0e49",
+        "width": 160
+      }
+    ],
+    "name": "I Hate The Beatles",
+    "popularity": 4,
+    "type": "artist",
+    "uri": "spotify:artist:5Pi3viYqawZx95Gan2dyC3"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO"
+    },
+    "followers": {
+      "href": null,
+      "total": 825
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/4aKuEXqhHmIZKdDRkaPPKO",
+    "id": "4aKuEXqhHmIZKdDRkaPPKO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb2a1b78772ee2b3735eee661b",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051742a1b78772ee2b3735eee661b",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1782a1b78772ee2b3735eee661b",
+        "width": 160
+      }
+    ],
+    "name": "Matchstick Piano Man",
+    "popularity": 44,
+    "type": "artist",
+    "uri": "spotify:artist:4aKuEXqhHmIZKdDRkaPPKO"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0WQ4jRVGAgNcYI3PmKfcbu"
+    },
+    "followers": {
+      "href": null,
+      "total": 273
+    },
+    "genres": ["fake"],
+    "href": "https://api.spotify.com/v1/artists/0WQ4jRVGAgNcYI3PmKfcbu",
+    "id": "0WQ4jRVGAgNcYI3PmKfcbu",
+    "images": [],
+    "name": "The Beatles Recovered Band",
+    "popularity": 3,
+    "type": "artist",
+    "uri": "spotify:artist:0WQ4jRVGAgNcYI3PmKfcbu"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1tZC32jyBAeMKYhnyMvyxf"
+    },
+    "followers": {
+      "href": null,
+      "total": 113
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1tZC32jyBAeMKYhnyMvyxf",
+    "id": "1tZC32jyBAeMKYhnyMvyxf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb12241d76ecb8cf0bb5f27ed9",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517412241d76ecb8cf0bb5f27ed9",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17812241d76ecb8cf0bb5f27ed9",
+        "width": 160
+      }
+    ],
+    "name": "BEATLESS",
+    "popularity": 0,
+    "type": "artist",
+    "uri": "spotify:artist:1tZC32jyBAeMKYhnyMvyxf"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2XDOCIIqxQSELhBKCUKXpM"
+    },
+    "followers": {
+      "href": null,
+      "total": 6063
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/2XDOCIIqxQSELhBKCUKXpM",
+    "id": "2XDOCIIqxQSELhBKCUKXpM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ac7ee19ed88c608f6b87aff7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ac7ee19ed88c608f6b87aff7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ac7ee19ed88c608f6b87aff7",
+        "width": 64
+      }
+    ],
+    "name": "Brasilian Tropical Orchestra",
+    "popularity": 14,
+    "type": "artist",
+    "uri": "spotify:artist:2XDOCIIqxQSELhBKCUKXpM"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2h8hIZELrQ63BTaptHrKTo"
+    },
+    "followers": {
+      "href": null,
+      "total": 130
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/2h8hIZELrQ63BTaptHrKTo",
+    "id": "2h8hIZELrQ63BTaptHrKTo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd72a7f64225740ec4d9d0d52",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174d72a7f64225740ec4d9d0d52",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178d72a7f64225740ec4d9d0d52",
+        "width": 160
+      }
+    ],
+    "name": "Beatless",
+    "popularity": 0,
+    "type": "artist",
+    "uri": "spotify:artist:2h8hIZELrQ63BTaptHrKTo"
+  }
+]

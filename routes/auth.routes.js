@@ -3,6 +3,7 @@ const router = express.Router();
 
 // ℹ️ Handles password encryption
 const bcrypt = require("bcrypt");
+const mongoose = require("mongoose");
 
 // ℹ️ Handles password encryption
 const jwt = require("jsonwebtoken");
@@ -17,7 +18,7 @@ const { isAuthenticated } = require("../middleware/jwt.middleware.js");
 const saltRounds = 10;
 
 // POST /auth/signup  - Creates a new user in the database
-router.post("/signup", (req, res, next) => {
+router.post("/signup", (req, res) => {
   const { email, password, name } = req.body;
 
   // Check if email or password or name are provided as empty strings
@@ -127,5 +128,25 @@ router.get("/verify", isAuthenticated, (req, res, next) => {
   // Send back the token payload object containing the user data
   res.status(200).json(req.payload);
 });
+
+// get the user profile
+router.get("/profile", isAuthenticated, (req, res, next) => {
+  console.log(`req.payload`, req.payload);
+
+  
+  res.status(200).json(req.payload);
+  
+  User.findById(req.payload._id)
+    .then((user) => {
+      res.status(200).json(user);
+    })
+    .catch((err) => next(err));
+});
+
+
+
+
+
+
 
 module.exports = router;

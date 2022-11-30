@@ -1,33 +1,25 @@
 const { Schema, model } = require("mongoose");
 
-const artistSchema = new Schema(
+const artistSchema = new Schema({
+  name: {
+    type: String,
+    unique: true,
+  },
+  followers: {
+    type: Number,
+  },
+  genre: [String],
+  profileimage: {
+    type: String,
+  },
+  events: [
     {
-        name: {
-            type: String,
-            unique: true,
-            
-        },
-        description: {
-            type: String,
-            
-        },
-        genre: {
-            type: String,
-            
-        },
-        profileimage: {
-            type: String,
-        
-        },
-        events: {
-            type: String,
-            
-        }
+      type: Schema.Types.ObjectId,
+      ref: "Event",
     },
-);
+  ],
+});
 
 const Artist = model("Artist", artistSchema);
 
 module.exports = Artist;
-
-        
