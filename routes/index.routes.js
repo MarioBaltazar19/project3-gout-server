@@ -22,4 +22,14 @@ router.get("/myevents", isAuthenticated, async (req, res, next) => {
   }
 });
 
+router.delete("/artist/delete/:id", async (req, res, next) => {
+  try {
+    const event = await Event.findByIdAndDelete(req.params.id);
+    res.status(200).json(event);
+  } catch (error) {
+    res.json(error);
+    next(error);
+  }
+});
+
 module.exports = router;
